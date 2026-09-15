@@ -4,3 +4,5 @@ Role-Based Feature Breakdown: Clear descriptions of the Patient Portal, Doctor D
 Project Structure Tree: Outlines the file and directory organization for easy navigation.
 Step-by-Step Setup & Commands: Includes clear instructions for cloning, installing dependencies (npm install), running the development server (npm run dev), compiling production builds (npm run build), and type checking (npm run lint).
 Data Persistence & Licensing: Notes on local storage state management and standard MIT license attribution.
+
+https://github.com/mahankyesambare7822-source/Health-Care-Magement-System-/blob/57e37c9ded880d510e7b4c1b21fee3ba05943df0/Home%20page%20.png
