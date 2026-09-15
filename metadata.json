@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Healthcare Management and Patient Engagement System",
+  "description": "An academic prototype healthcare management and patient engagement platform featuring patient records, appointment scheduling, health reminders, educational AI assistant, doctor dashboard, and development milestone tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
